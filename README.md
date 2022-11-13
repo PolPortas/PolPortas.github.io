@@ -26,5 +26,5 @@ CONCLUSION
 • In conclusion, all the information has been shown to the public in the most concise and clear way for an easy, fast and suitable reading 
   to see the level and control in each aspect of my person.
   
-FIGMA --> https://www.figma.com/file/0brhMtrx29IvwmKYo6qpnv/CV?node-id=0%3A1&t=BWxeYA0CPmq2McJ4-1
-CV --> [CV](http://polportas.github.io)
+                                        FIGMA --> https://www.figma.com/file/0brhMtrx29IvwmKYo6qpnv/CV?node-id=0%3A1&t=BWxeYA0CPmq2McJ4-1
+                                        CV --> [CV](http://polportas.github.io)
