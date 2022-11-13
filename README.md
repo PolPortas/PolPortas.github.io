@@ -28,5 +28,5 @@ CONCLUSION
 
 Links
 ----------------------------
-FIGMA --> https://www.figma.com/file/0brhMtrx29IvwmKYo6qpnv/CV?node-id=0%3A1&t=BWxeYA0CPmq2McJ4-1
+FIGMA --> https://www.figma.com/file/0brhMtrx29IvwmKYo6qpnv/CV?node-id=0%3A1&t=BWxeYA0CPmq2McJ4-1                                           
 Curriculum Vitae --> [CV](http://polportas.github.io)
